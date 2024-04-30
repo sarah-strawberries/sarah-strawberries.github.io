@@ -1,5 +1,5 @@
 # sarah-strawberries.github.io
-## The personal GitHub Pages repositor of sarah-strawberries
+## The personal GitHub Pages repository of sarah-strawberries
 
 Website projects currently hosted:
 
